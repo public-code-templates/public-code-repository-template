@@ -35,8 +35,6 @@ Add the template files:
 ## Maintenance
 
 This repository is a collaboration between the [Agency of Digital Government](https://github.com/diggsweden) and [OS2](https://github.com/OS2offdig).
-It is in stewardship with the [Foundation for Public Code](https://github.com/publiccodenet).
-The Foundation for Public Code has committed to make sure that its maintainers are available to review contributions with an aim to provide feedback within two business days.
 
 ## License
 
